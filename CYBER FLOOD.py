@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-#Coded by L330n123
+#Coded by Cyber Ravana
 #########################################
 #         Just a little change          #
-#                           -- L330n123 #
+#                           -- Cyber Ravana #
 #########################################
 import requests
 import socket
